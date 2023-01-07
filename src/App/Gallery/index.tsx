@@ -86,16 +86,16 @@ const Gallery = () => {
     
         <div className="gallery">
             <div className="gallery-image">
-                <img src="img/img/img1.png" alt="image 1" className="image"/>
+                <img src="../img/img1.png" alt="image 1" className="image"/>
             </div>
             <div className="gallery-image">
-                <img src="img/img/img2.png" alt="image 2" className="image"/>
+                <img src="../img/img2.png" alt="image 2" className="image"/>
             </div>
             <div className="gallery-image">
-                <img src="img/img/img3.png" alt="image 3" className="image"/>
+                <img src="../img/img3.png" alt="image 3" className="image"/>
             </div>
             <div className="gallery-image">
-                <img src="img/img/img4.png" alt="image4" className="image"/>
+                <img src="../img/img4.png" alt="image4" className="image"/>
             </div>
             
         </div>
